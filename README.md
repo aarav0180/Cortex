@@ -38,9 +38,8 @@ Cortex2 is a fast, efficient AI model runner for mobile devices, built with Flut
 - `lib/main.dart` — App entry point.
 - `lib/pages/chat_page.dart` — Main chat UI.
 - `lib/providers/chat_provider.dart` — Chat logic, message management, optimizations.
-- `lib/providers/model_provider.dart` — Model selection and management.
+- `lib/providers/model_provider.dart` — Model selection and management(also the available models).
 - `lib/services/inference_engine.dart` — FFI bridge to native inference.
-- `assets/supported_models.json` — List of supported models.
 
 ## Getting Started
 
@@ -64,7 +63,7 @@ Cortex2 is a fast, efficient AI model runner for mobile devices, built with Flut
 	```
 
 5. **Add Models:**  
-	Place your supported model files in the appropriate directory as described in `assets/supported_models.json`.
+	Place your supported model files in the appropriate directory as described in `lib/providers/model_provider.dart`.
 
 ## Usage
 
