@@ -1,0 +1,58 @@
+[
+  {
+    "id": "phi-3-mini-q4",
+    "name": "Phi-3 Mini",
+    "description": "Microsoft's efficient small language model",
+    "version": "3.8B",
+    "size_gb": 2.4,
+    "author": "Microsoft",
+    "quantization": "Q4",
+    "download_url": "",
+    "supported_platforms": ["android", "ios"]
+  },
+  {
+    "id": "llama-3-8b-q4",
+    "name": "Llama 3 8B",
+    "description": "Meta's open-source language model",
+    "version": "8B",
+    "size_gb": 4.7,
+    "author": "Meta",
+    "quantization": "Q4",
+    "download_url": "",
+    "supported_platforms": ["android", "ios"]
+  },
+  {
+    "id": "mistral-7b-q4",
+    "name": "Mistral 7B",
+    "description": "Efficient and fast reasoning model",
+    "version": "7B",
+    "size_gb": 4.1,
+    "author": "Mistral AI",
+    "quantization": "Q4",
+    "download_url": "",
+    "supported_platforms": ["android", "ios"]
+  },
+  {
+    "id": "phi-3-mini-q5",
+    "name": "Phi-3 Mini (Q5)",
+    "description": "Microsoft's efficient small language model - higher quality",
+    "version": "3.8B",
+    "size_gb": 2.9,
+    "author": "Microsoft",
+    "quantization": "Q5",
+    "download_url": "",
+    "supported_platforms": ["android", "ios"]
+  },
+  {
+    "id": "llama-3-8b-q5",
+    "name": "Llama 3 8B (Q5)",
+    "description": "Meta's open-source language model - higher quality",
+    "version": "8B",
+    "size_gb": 5.6,
+    "author": "Meta",
+    "quantization": "Q5",
+    "download_url": "",
+    "supported_platforms": ["android", "ios"]
+  }
+]
+

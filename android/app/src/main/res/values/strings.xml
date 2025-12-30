@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cortex</string>
+    <string name="accessibility_service_description">Cortex uses accessibility services to read screen text for context awareness. This helps the AI agent understand what you\'re viewing.</string>
+</resources>
+
