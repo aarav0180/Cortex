@@ -1,6 +1,6 @@
 # Cortex
 
-Cortex2 is a fast, efficient AI model runner for mobile devices, built with Flutter. It allows you to run local AI models, chat with them, and experiment with different model families—all optimized for performance and usability.
+Cortex is a fast, efficient AI model runner for mobile devices, built with Flutter. It allows you to run local AI models, chat with them, and experiment with different model families—all optimized for performance and usability.
 
 ## Features
 
